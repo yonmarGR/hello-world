@@ -1,2 +1,3 @@
 # hello-world
-first time onn GithHub
+first time on GitHub
+Step by step
